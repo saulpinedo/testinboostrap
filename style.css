@@ -1,0 +1,20 @@
+body{
+  background-color: #34495E;
+}
+.gray{
+  background-color: white;
+}
+h1{
+  color: white
+}
+[class*="col-"]{
+  min-height: 5rem;
+  background-color:#EAECEE ;
+  padding: 0
+}
+.box{
+  background-color:#EB984E;
+  padding: 5px;
+  margin: 5px 5px 5px 5px;
+  height: 5rem;
+}
